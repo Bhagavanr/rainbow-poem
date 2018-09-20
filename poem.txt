@@ -6,5 +6,6 @@ blue
 cloud
 green
 orange
+red and Indigo
 
 and my cloud
